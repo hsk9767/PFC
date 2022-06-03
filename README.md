@@ -22,6 +22,7 @@ The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed. 
    cd ${POSE_ROOT}/lib
    make
    ```
+   When an error ("Value 'sm_xx' is not defined for option 'gpu-architecture'") happens, check compatible versions by typing 'lib/nms/setup.py' and then modify the '-arch=sm_xx' in line 127 of 'lib/nms/setup.py'.
 3. Install [COCOAPI](https://github.com/cocodataset/cocoapi):
    ```
    # COCOAPI=/path/to/clone/cocoapi
