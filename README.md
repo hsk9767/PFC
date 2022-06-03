@@ -47,7 +47,7 @@ The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed. 
             |-- hr48_256x192.pth.tar
             '-- hr48_384x288.pth.tar
 
-
+   ```
    Your directory tree should look like this:
 
    ```
