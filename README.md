@@ -86,7 +86,7 @@ ${POSE_ROOT}
                 |-- 000000000285.jpg
                 |-- 000000000632.jpg
                 |-- ... 
-
+```
 ### Valid on COCO val2017 using pretrained models
 
 ```
